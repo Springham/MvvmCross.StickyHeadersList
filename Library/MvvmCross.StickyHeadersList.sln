@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvvmCross.StickyHeadersList", "MvvmCross.StickyHeadersList.csproj", "{F9E5354F-2853-4B74-B75E-80156AAD96D0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{5DD7D6D7-7752-4CA1-A3EC-46ED162296A6}"
+	ProjectSection(SolutionItems) = preProject
+		MvvmCross.StickyHeadersList.nuspec = MvvmCross.StickyHeadersList.nuspec
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9E5354F-2853-4B74-B75E-80156AAD96D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9E5354F-2853-4B74-B75E-80156AAD96D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9E5354F-2853-4B74-B75E-80156AAD96D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9E5354F-2853-4B74-B75E-80156AAD96D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
