@@ -8,7 +8,7 @@
     <owners>Andrew Springham</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>MvvmCross implementation for Sticky Headers List for Android</description>
-    <projectUrl>https://github.com/Springham/MvvmCross.StickyListHeaders</projectUrl>
+    <projectUrl>https://github.com/Springham/MvvmCross.StickyHeadersList</projectUrl>
     <tags>mvvm mvvmcross xamarin monodroid mvx sticky header headers list android</tags>
     <dependencies>
       <dependency id="MvvmCross" version="4.2.2" />
