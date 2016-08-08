@@ -18,7 +18,7 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="bin\Release\MvvmCross.StackView.dll" target="lib" />
-    <file src="bin\Release\MvvmCross.StackView.pdb" target="lib" />
+    <file src="bin\Release\MvvmCross.StickyHeadersList.dll" target="lib" />
+    <file src="bin\Release\MvvmCross.StickyHeadersList.pdb" target="lib" />
   </files>
 </package>
