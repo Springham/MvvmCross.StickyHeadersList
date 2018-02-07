@@ -9,7 +9,7 @@ using Android.Widget;
 using Java.Lang;
 using MvvmCross.Binding.Droid.BindingContext;
 using MvvmCross.Binding.Droid.Views;
-using MvvmCross.Droid.Shared.Fragments;
+using MvvmCross.Droid.Views;
 using MvvmCross.StickyHeadersList.Interfaces;
 using Object = Java.Lang.Object;
 
@@ -270,12 +270,6 @@ namespace MvvmCross.StickyHeadersList
         int IMvxAdapter.GetPosition(object value)
         {
             return Delegate.GetPosition(value);
-        }
-
-        int IMvxAdapter.SimpleViewLayoutId
-        {
-            get { return Delegate.SimpleViewLayoutId; }
-            set { Delegate.SimpleViewLayoutId = value; }
         }
 
         IEnumerable IMvxAdapter.ItemsSource
